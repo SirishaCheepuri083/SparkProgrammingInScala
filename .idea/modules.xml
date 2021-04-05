@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SparkProgrammingInScala.iml" filepath="$PROJECT_DIR$/.idea/SparkProgrammingInScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-HelloRDD/02-HelloRDD.iml" filepath="$PROJECT_DIR$/02-HelloRDD/02-HelloRDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-HelloDataset/03-HelloDataset.iml" filepath="$PROJECT_DIR$/03-HelloDataset/03-HelloDataset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-HelloSparkSQL/04-HelloSparkSQL.iml" filepath="$PROJECT_DIR$/04-HelloSparkSQL/04-HelloSparkSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-SparkSchemaDemo/05-SparkSchemaDemo.iml" filepath="$PROJECT_DIR$/05-SparkSchemaDemo/05-SparkSchemaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-DataSinkDemo/06-DataSinkDemo.iml" filepath="$PROJECT_DIR$/06-DataSinkDemo/06-DataSinkDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-SparkSQLTableDemo/07-SparkSQLTableDemo.iml" filepath="$PROJECT_DIR$/07-SparkSQLTableDemo/07-SparkSQLTableDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-LogFileDemo/10-LogFileDemo.iml" filepath="$PROJECT_DIR$/10-LogFileDemo/10-LogFileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-UDFDemo/12-UDFDemo.iml" filepath="$PROJECT_DIR$/12-UDFDemo/12-UDFDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-MiscDemo/13-MiscDemo.iml" filepath="$PROJECT_DIR$/13-MiscDemo/13-MiscDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-AggDemo/14-AggDemo.iml" filepath="$PROJECT_DIR$/14-AggDemo/14-AggDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-GroupingDemo/15-GroupingDemo.iml" filepath="$PROJECT_DIR$/15-GroupingDemo/15-GroupingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-WindowingDemo/16-WindowingDemo.iml" filepath="$PROJECT_DIR$/16-WindowingDemo/16-WindowingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-RankingDemo/17-RankingDemo.iml" filepath="$PROJECT_DIR$/17-RankingDemo/17-RankingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-SparkJoinDemo/18-SparkJoinDemo.iml" filepath="$PROJECT_DIR$/18-SparkJoinDemo/18-SparkJoinDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-OuterJoinDemo/19-OuterJoinDemo.iml" filepath="$PROJECT_DIR$/19-OuterJoinDemo/19-OuterJoinDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-ShuffleJoinDemo/20-ShuffleJoinDemo.iml" filepath="$PROJECT_DIR$/20-ShuffleJoinDemo/20-ShuffleJoinDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-ComplexTypesDemo/22-ComplexTypesDemo.iml" filepath="$PROJECT_DIR$/22-ComplexTypesDemo/22-ComplexTypesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-HelloSpark-Maven/src/main/main.iml" filepath="$PROJECT_DIR$/01-HelloSpark-Maven/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-RowDemo/src/main/main1.iml" filepath="$PROJECT_DIR$/09-RowDemo/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-HelloSpark/src/main/main2.iml" filepath="$PROJECT_DIR$/01-HelloSpark/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-HelloSpark/src/test/test.iml" filepath="$PROJECT_DIR$/01-HelloSpark/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-HelloSpark-Maven/src/test/test1.iml" filepath="$PROJECT_DIR$/01-HelloSpark-Maven/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-RowDemo/src/test/test2.iml" filepath="$PROJECT_DIR$/09-RowDemo/src/test/test2.iml" />
     </modules>
   </component>
 </project>

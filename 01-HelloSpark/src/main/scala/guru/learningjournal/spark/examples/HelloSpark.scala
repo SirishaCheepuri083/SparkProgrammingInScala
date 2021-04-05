@@ -21,6 +21,8 @@ object HelloSpark extends Serializable {
 
     logger.info("Starting Hello Spark")
     logger.info("Starting Hello Spark 4")
+
+    logger.info("Starting Hello Spark 5")
     val spark = SparkSession.builder()
       .config(getSparkAppConf)
       .getOrCreate()
